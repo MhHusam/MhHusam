@@ -74,8 +74,8 @@
 
 <br />
 
-<code><img height="40" src=" https://stg.counseltrain.com/wp-content/uploads/2024/05/0_ioDeujW3euLCfXew.png"></code>
-<code><img height="40" src=" https://i.ytimg.com/vi/MhYECGUzdA4/sddefault.jpg"></code>
+<code><img height="40" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png"></code>
+<code><img height="40" src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
