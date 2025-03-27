@@ -34,24 +34,18 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false"> Frontend Tech Lead<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
+- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false"> Full Stack Enginner <a href="https://instabug.com/"> @Digital Trust Csp </a>, a company which focused on blockchain solutions and Dapps industry 
 
-- 🎓 Graduated from <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a> Computer Engineering departement
-
-- ✍️Technical Blogger <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
-</a><a href="https://a-hemdan.medium.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
+- 🎓 Graduated from <a href=" https://damascusuniversity.edu.sy/ite/">Faculty of Information Technology Engineering of Damascus University</a> Software Engineering departement
 
 - 📖 Currently Reading: "**Frontend Architecture for Design Systems**" by [@Micah Godbolt](https://www.micahgodbolt.com/)
 
-- 🏃‍♂️ I am passionate about Front-End, Web Performance, Competitive Programming and, Computer vision
+- 🏃‍♂️ I am passionate about Blockchain ,Web3 , Competitive Programming and, Computer vision 
 
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications using Vue.js
+- 🚧 I'm currently focused on improving my ability to provide high backend quality  applications using .NET ecosystem
 
 - 🍀 Ask me about anything, I will be happy to help
-
-- ⭐ Spotlight of the Week in hashnode with **+30K** page view <a href="https://twitter.com/hashnode/status/1407316192319127562" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-ffffff?logo=twitter&style=flat-square" /></a>
-
-- 🥷Instabug Ultimate Team 4x ([21Q3](https://www.linkedin.com/in/abdallah-a-hemdan/overlay/experience/1669032270/multiple-media-viewer/?treasuryMediaId=1635480070413), [21Q4](https://www.linkedin.com/in/abdallah-a-hemdan/overlay/experience/1669032270/multiple-media-viewer/?treasuryMediaId=1635480070418), [22Q1](https://www.linkedin.com/in/hemdan99/overlay/experience/1966426036/multiple-media-viewer/?treasuryMediaId=1635490860770), [22Q3](https://www.linkedin.com/in/hemdan99/overlay/experience/1966426036/multiple-media-viewer/?profileId=ACoAACQGJUEBwlvNU6PUBQ6H0BzKo8sosz8F9QM&treasuryMediaId=1635507549866))
+ 
 
 - 💬 Favourite Quotes: 
 
@@ -91,18 +85,9 @@
 
 </div>
 
-<br /><br />
+ 
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My latest articles!
-<!-- BLOG:START -->
-- [Frontend System Design Series](https://hemdan.hashnode.dev/series/fe-system-design)
-- [Actions On Visibility](https://hemdan.hashnode.dev/actions-on-visibility)
-- [CSS Nesting](https://hemdan.hashnode.dev/css-nesting)
-- [Conventional Commits](https://hemdan.hashnode.dev/conventional-commits)
-- [JavaScript Patterns [Ch.1: Introduction]](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)
-- [Conventional Comments](https://hemdan.hashnode.dev/conventional-comments)
-- [Vue Patterns - Part 1](https://hemdan.hashnode.dev/vue-patterns-part-1)
-
+ 
 <!-- BLOG:END -->
 <!-- 
 <div align="center">
