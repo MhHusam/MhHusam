@@ -22,25 +22,9 @@
 
  
 <a href="https://www.linkedin.com/in/hussam-kheami/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
- 
- 
- 
- 
-
 
 <a href="https://codeforces.com/profile/husam_kh95">
-  <img align="left" alt="hemdan's codeforces" width="40px" src="https://codeforces.org/s/21461/images/codeforces-sponsored-by-ton.png" draggable="false" />
-</a>
-
-
-
-<a href="https://hemdan.hashnode.dev/">
-  <img align="left" alt="hemdan's hashnode" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj86-LC7fAA-ib9z9QKaspSK6pHEv1JVrvQBipcf52fg&s" draggable="false" />
-</a>
-
-
-<a href="https://a-hemdan.medium.com">
-  <img align="left" alt="hemdan's medium" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" draggable="false" />
+  <img align="left" alt="hemdan's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
 </a>
 
 </div>
