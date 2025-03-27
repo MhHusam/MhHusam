@@ -57,8 +57,7 @@
 <div align="center">
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png"></code>
-
+<code><img height="40" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643018108207/nQV-PBizd.png"></code> 
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkyU1UJne_2eNcsASrQorgtxmIlJyIpPRnA&s"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -72,7 +71,7 @@
 <code><img height="40" src=" https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"></code>
 <code><img src="https://kinsta.com/wp-content/uploads/2022/05/nuxt-js-logo.jpeg" alt="angular-js" width="40" height="40" /></code>
 <code><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/tailwindcss-1633184775.webp" alt="bootstrap" width="40" height="40" /></code>
-
+<code><img height="40" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png"></code>
 <br />
 
 <code><img height="40" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png"></code>
